@@ -1,0 +1,76 @@
+
+  body{
+ 
+    background-color: #b68eff;
+    background-image: linear-gradient(307deg, #b68eff 0%, #ffa1f5 50%, #70fff8 100%);
+    
+
+}
+
+
+
+.btn-grad {background-image: linear-gradient(to right, #ddd6f3 0%, #faaca8  51%, #ddd6f3  100%)}
+.btn-grad {
+   margin: 10px;
+   text-align: center;
+   text-transform: uppercase;
+   transition: 0.5s;
+   color: white;            
+   box-shadow: 0 0 20px #eee;
+   border-radius: 10px;
+   display: block;
+   white-space: pre-line;
+
+ }
+
+ .btn-grad:hover {
+   background-position: right center; /* change the direction of the change here */
+   color: #fff;
+   text-decoration: none;
+ }
+
+
+
+
+
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0%;
+    
+}
+.heading_div{
+    float:none;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px grey;
+}
+.heading_div2{
+    font-size: 18px;
+}
+
+.copy_right_footer{
+  position:  fixed;
+  color:blueviolet;
+  bottom: 0;
+  width: 100%;
+  background-color: aqua;
+  line-height: 3;
+  text-align: center;
+}
+
+canvas{
+  border: 5px solid white;
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px gainsboro;
+  margin-top: 150px;
+  
+}
+
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 10px;
+  }
+ 
